@@ -1,0 +1,8 @@
+<form action="/users" method="get">
+    <input type="search" name="term" placeholder="search">
+    <input type="submit" value="search"/>
+</form>
+<hr>
+{% for name in users %}
+<p><em><strong>{{ name }}</strong></em></p>
+{% endfor %}

@@ -1,0 +1,6 @@
+/.idea
+/venv
+/.git
+/Lib
+/Scripts
+pyvenv.cfg
