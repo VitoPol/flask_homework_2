@@ -1,6 +1,7 @@
 /.idea
 /venv
 /.git
-/Lib
 /Scripts
 pyvenv.cfg
+/Lib/
+/Scripts/
